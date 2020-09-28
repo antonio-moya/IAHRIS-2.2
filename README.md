@@ -1,5 +1,5 @@
 # IAHRIS-2.2
-Índices de Alteración Hidrológica en Ríos (IAHRIS)<br/>
+Índices de Alteración Hidrológica en RÍoS (IAHRIS)<br/>
 Indicators of Hydrologic Alteration in RIverS
 Indicador de masas de agua muy alteradas: Manual de Referencia Metodológica
 Versión 2.2
