@@ -3,12 +3,12 @@
 Indicador de masas de agua muy alteradas: Manual de Referencia Metodológica
 Versión 2.2
 ## Autores:
-Metodología:
+### Metodología:
 Carolina Martínez Santa-María
 José Anastasio Fernández Yuste
-Software:
+### Software:
 INCLAM, S.A.
-## Manual de Referencia:
+### Manual de Referencia:
 Carolina Martínez Santa-María
 José Anastasio Fernández Yuste
 ## Edición:
